@@ -1,5 +1,8 @@
 # Binary Search
 
+lst = [2, 3, 45, 25, 85, 7, 4]
+lst.sort()                    # binary search assumes that the array which is provided for searching is a "sorted" array
+lst
 start = 0
 end = len(lst)-1
 mid = (start + end)//2        #floor division
