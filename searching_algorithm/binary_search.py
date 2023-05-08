@@ -1,4 +1,5 @@
 # Binary Search
+# Complexity : O(log n)
 
 lst = [2, 3, 45, 25, 85, 7, 4]
 lst.sort()                    # binary search assumes that the array which is provided for searching is a "sorted" array
