@@ -1,4 +1,5 @@
 #Linear Search
+#Complexity: O(n)
 
 element = int(input())
 lst = [2, 5, 7, 8, 10 , 78, 42, 12, 66]
