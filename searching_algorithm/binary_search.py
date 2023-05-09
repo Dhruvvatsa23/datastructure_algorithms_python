@@ -21,5 +21,5 @@ while start<=end:
 
     # update mid value
     mid = (start+end)//2
-else:
+else
   print("Element not found!!")
