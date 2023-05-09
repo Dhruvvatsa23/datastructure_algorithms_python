@@ -21,4 +21,4 @@ def find_peak(start, end, mid):
     
     print("Peak element is at index: ", start)
     
-    find_peak(start, end, mid)
+    find_peak(start, end, mid
