@@ -1,4 +1,4 @@
-#selection sort method
+#selection sort method (unstable version)
 
 def selection_sort(array_1):
     for i in range(len(array_1)):
