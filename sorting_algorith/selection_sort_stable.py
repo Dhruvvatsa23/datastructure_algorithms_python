@@ -1,3 +1,5 @@
+#selection sort algorithm (stable version)
+
 def stableSelectionSort(array, n):
     for i in range(n):
         min_idx = i
